@@ -1,0 +1,29 @@
+.open-btn {
+  color: grey;
+  background-color: aqua;
+  border: 1px solid grey;
+  border-radius: 50%;
+  outline: grey;
+  cursor: pointer;
+
+}
+
+
+.close-btn {
+  border: 1px solid red;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  background-color: red;
+
+}
+
+
+h1 {
+  color: black;
+
+}
+
+h1:hover {
+  color: cyan;
+}
